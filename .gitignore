@@ -1,0 +1,3 @@
+*.pyc
+/data
+/submit_to_kaggle
